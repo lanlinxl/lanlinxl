@@ -5,4 +5,7 @@ Hi there 👋
 - 📫   lanlin0806@icloud.com
 
 #### GitHub Stats
-![yizhixiafancai's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanlinxl&count_private=true)
+<!-- ![yizhixiafancai's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanlinxl&count_private=true) -->
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanlinxl&show_icons=true&theme=radical)
